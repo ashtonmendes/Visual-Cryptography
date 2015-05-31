@@ -241,18 +241,6 @@ http://www.openssl.org/docs/crypto/md5.html</A>.
 
 <P>
 
-To use <TT>openssl</TT> on <TT>nunki.usc.edu</TT>, please
-see the <A HREF="../../openssl.html">additional notes on <TT>openssl</TT></A>.
-
-<P>
-
-<I>(Of course, by now you should know that it is not a good idea to generate
-keys this way for RC4.  We are doing it this way to make this HW reasonably
-easy to grade.)</I>
-            </TD>
-        </TR>
-        <TR><TD>&nbsp;</TD></TR>
-      
 </BODY>
 </HTML>
 
