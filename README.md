@@ -167,17 +167,17 @@ The output for various commands are as follows.
 
 <P>
 
-            </TD>
-        </TR>
-        <TR><TD>&nbsp;</TD></TR>
-        <!-- Section -->
-        <TR><TD COLSPAN=3 ALIGN=LEFT BGCOLOR="#000000" WIDTH=100%>
-                <FONT COLOR="#ffffff"><A NAME="stream">
-                <B>Key Generation for a Simple Stream Cipher</B></A></FONT>
-            </TD>
-        </TR>
-        <!-- Top Section -->
-        <TR><TD COLSPAN=3 ALIGN=LEFT>
+</TD>
+</TR>
+<TR><TD>&nbsp;</TD></TR>
+<!-- Section -->
+<TR><TD COLSPAN=3 ALIGN=LEFT BGCOLOR="#000000" WIDTH=100%>
+<FONT COLOR="#ffffff"><A NAME="stream">
+<B>Key Generation for a Simple Stream Cipher</B></A></FONT>
+</TD>
+</TR>
+<!-- Top Section -->
+<TR><TD COLSPAN=3 ALIGN=LEFT>
 Let <TT>p</TT> be a null-terminated string containing the passphrase.
 Please ues the following algorithm (or equivalent) to generate
 key stream for our simple stream cipher.  (Please make appropriate
